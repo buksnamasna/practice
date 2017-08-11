@@ -3,7 +3,7 @@
 int main()
 {
 	printf("Hello world!\n");
-	printf("izmjena\n");
+	printf("Neki tamo novi printf\n");
 	printf("prikazuje nesto drugo");
 	printf("promjenjena linija")
 }
